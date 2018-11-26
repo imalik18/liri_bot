@@ -2,7 +2,7 @@
 
 <h2>What it Does<h2>
 
-The project is build a search engine or API designed to give back information that is requested by the user. 
+The project is to build a search engine or API designed to give back information that is requested by the user. 
 
 This search engine is limited to finding information about songs, movies and concerts. 
 
@@ -50,13 +50,13 @@ Using the command *concert-this* we can enter an Artist's name and get back:
 
     2.  Venue location.
 
-    3.  Date of the Event (use moment to format this as "MM/DD/YYYY").
+    3.  Date of the Event
 
 https://github.com/imalik18/liri_bot/blob/master/assets/images/concert-this.png
 
 <h6>Do What It Says<h6>
 
-In addition to just directly typing in songs, movie or artist's names in termina, we added a random.txt file where you can write down these things and get the results by typing in *do-what-it-says*. 
+In addition to just directly typing in songs, movies or artists names in terminal, we added a random.txt file where you can write down these things and get the results by typing in *do-what-it-says*. 
 
 https://github.com/imalik18/liri_bot/blob/master/assets/images/do-what-it-says.png
 
@@ -64,6 +64,6 @@ This project is useful because it allows you to get the data you need when resea
 
 If you remember the name of a song but don't know which artist sang it or which album it's from- you can search that too. 
 
-You can find out when and where the latest concerts are where your favorite band is performing.
+You can find out a list of when and where the latest concerts of your favorite band/s is performing.
 
 https://drive.google.com/drive/u/0/folders/1cFHD0yYmkeOgG2I5FgM4D6IL93qIURWi?ogsrc=32
