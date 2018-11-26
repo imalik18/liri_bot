@@ -1,5 +1,3 @@
-# liri_bot 
-
 <h1>Liri Bot<h1>
 
 <h2>What it Does<h2>
@@ -20,7 +18,7 @@ Using the command *spotify-this* we can enter a song name and get back:
 
 If we don't enter a name of a song, the search results default to results for the "The Sign" by Ace of Base.
 
-![Spotify Song Screenshot] (./assets/images/spotify-this.png)
+![./assets/images/spotify-this.png]
 
 <h4>Movies<h4>
 
@@ -42,7 +40,7 @@ Using the command *movie-this* we can enter a movie's name and get back:
 
     8.  Actors in the movie.
 
-![Movie Results Screenshot] (./assets/images/movie-this.png)
+![./assets/images/movie-this.png]
 
 <h5>Concerts<h5>
 
@@ -54,7 +52,7 @@ Using the command *concert-this* we can enter an Artist's name and get back:
 
     3.  Date of the Event (use moment to format this as "MM/DD/YYYY").
 
-![Concert Infomartion] (/assets/images/concert-this.png)
+![/assets/images/concert-this.png]
 
 <h6>Do What It Says<h6>
 
@@ -68,4 +66,4 @@ If you remember the name of a song but don't know which artist sang it or which 
 
 You can find out when and where the latest concerts are where your favorite band is performing.
 
-![link to Demo](https://drive.google.com/file/d/1BjOPSXmDKPF3MVgtmWc-iCg0sLvtNmvI/view)
+![https://drive.google.com/drive/u/0/folders/1cFHD0yYmkeOgG2I5FgM4D6IL93qIURWi?ogsrc=32]
